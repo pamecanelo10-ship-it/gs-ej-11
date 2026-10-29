@@ -1,1 +1,3 @@
 Organizacion de la feria tecnologica anual
+Distribuir los stands de los expositores
+Asignar horarios a las exposiciones
